@@ -10,7 +10,7 @@ Welcome to the Lejeune Lab! Below are resources that are useful to get start in 
   * [Unix Cheatsheet](https://commons.wikimedia.org/wiki/File:Unix_command_cheatsheet.pdf)
 
 ## VSCode
-VSCode is a code editor that simplifies your workflow alot. You can easily edit code, Jupyter notebooks, bash, ssh, git all using VSCode. [To install go to this link](https://code.visualstudio.com/).
+VSCode is a code editor that simplifies your workflow alot. You can easily edit code, debug, use Jupyter notebooks, bash, ssh, git all using VSCode. [To install go to this link](https://code.visualstudio.com/).
 
 Here are some useful links to configure VSCode:
   * [Jupyter Notebooks](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
@@ -19,3 +19,5 @@ Here are some useful links to configure VSCode:
   * [Github](https://code.visualstudio.com/docs/sourcecontrol/github)
   * [WSL2 (Windows only)](https://code.visualstudio.com/blogs/2019/09/03/wsl2) 
     * [What is WSL2? + Installation](https://learn.microsoft.com/en-us/windows/wsl/install)
+## Conda Environments
+Coming Soon!
